@@ -13,7 +13,7 @@ items:
 
 - url: /assignments/
   name: Assignments
-  icon_class: fas fa-user-graduate
+  icon_class: fas fa-edit
 
 - url: /project/
   name: Project
