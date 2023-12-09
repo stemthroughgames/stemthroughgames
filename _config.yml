@@ -1,19 +1,18 @@
 # Site settings
-course_name: History of Magic
-course_description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ornare aliquam mattis. Donec hendrerit sollicitudin urna. Aliquam venenatis rutrum velit, at lobortis dui cursus a. Nam varius metus in turpis maximus, ut rhoncus tellus dictum. In aliquam tortor nec mi dapibus, sit amet vehicula dolor auctor."
-course_semester: "Fall 1998"
+course_name: STEM Through Games
+course_description: "Learn important topics in computer science and narrative while learning to make games!"
+course_semester: "2023"
 
-baseurl: "/jekyll-course-website-template" # the subpath of your site, e.g. /blog/
-url: "http://kazemnejad.github.io/" # the base hostname & protocol for your site
+baseurl: "/" # the subpath of your site, e.g. /blog/
+url: "http://stemthroughgames.github.io/" # the base hostname & protocol for your site
 
-schoolname: "Hogwarts"
-schoolurl: "https://hogwarts.edu"
-twitter_username: username 
+schoolname: "University of Pittsburgh"
+schoolurl: "https://pitt.edu"
+twitter_username: 
 
 address: |
-    School of Witchcraft and Wizardry
-    Hogwarts
-    Scotland
+    130 N Bellefield Ave
+    Pittsburgh, PA 15213
 
 # Set your Google Analytics tracking ID (set up yours at http://www.google.com/analytics/)
 # google_analytics: UA-XXXXXXXX-X
