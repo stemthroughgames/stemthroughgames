@@ -3,7 +3,7 @@ course_name: STEM Through Games
 course_description: "Learn important topics in computer science and narrative while learning to make games!"
 course_semester: "2023"
 
-baseurl: "/" # the subpath of your site, e.g. /blog/
+baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://stemthroughgames.github.io/" # the base hostname & protocol for your site
 
 schoolname: "University of Pittsburgh"
