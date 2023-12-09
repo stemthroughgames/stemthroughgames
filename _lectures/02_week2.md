@@ -11,6 +11,8 @@ links:
       name: video
     - url: https://github.com/stemthroughgames/dodgeball
       name: code
+    - url: /static_files/notes/week02.pdf
+      name: notes
 ---
 - C# programming
 - Creating a dodgeball game in Unity
