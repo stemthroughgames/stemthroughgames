@@ -7,7 +7,7 @@ thumbnail: /_images/thumbnails/week2.png
 links: 
     - url: /static_files/presentations/week2.pdf
       name: slides
-    - url: /
+    - url: https://youtu.be/WUIAPOvtM8w
       name: video
     - url: https://github.com/stemthroughgames/dodgeball
       name: code
